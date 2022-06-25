@@ -42,7 +42,7 @@
     "log-symbols": "^3.0.0",
     "moment": "^2.24.0",
     "ms": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "random-puppy": "^1.1.0",
     "random-string": "^0.2.0",
     "request": "^2.88.2",
