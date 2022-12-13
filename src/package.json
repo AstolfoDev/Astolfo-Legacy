@@ -29,7 +29,7 @@
     "ejs": "^3.0.1",
     "elo-rank": "^1.0.4",
     "enmap": "^5.2.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fetch-favicon": "0.0.2",
     "ffmpeg": "0.0.4",
     "font": "0.0.4",
